@@ -3,6 +3,9 @@
 A comprehensive, production-ready **Bank Management System** built in C++ with enterprise-grade features including secure authentication, encrypted data storage, currency exchange, and complete transaction logging. Demonstrates advanced OOP concepts, security implementations, and real-world banking operations.
 
 ---
+Default Username  : Admin
+Default Password : 1234
+---
 
 ## 📺 Project Demo & Explanation
 
