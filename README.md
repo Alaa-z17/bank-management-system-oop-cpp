@@ -179,12 +179,12 @@ test/
 │       │   ├── clsFindCurrencyScreen.h
 │       │   └── clsUpdateCurrencyRateScreen.h
 │       ├── UserScreens/
-│       │   └── clsAddNewUserScreen
-            └── clsChangeAdminCredsScreen
-            └──clsDeleteUserScreen
-            └──clsFindUserScreen
-            └──clsListUserScreen
-            └──clsUpdateUserScreen
+│       │   ├── clsAddNewUserScreen
+│       │   ├── clsChangeAdminCredsScreen
+│       │   ├──clsDeleteUserScreen
+│       │   ├──clsFindUserScreen
+│       │   ├──clsListUserScreen
+│       │   ├──clsUpdateUserScreen
 │       ├── clsCurrencyExchangeMainScreen.h
 │       ├── clsLoginRegisterScreen.h
 │       ├── clsLoginScreen.h
@@ -192,9 +192,9 @@ test/
 │       ├── clsManageUserScreen.h
 │       ├── clsScreen.h
 │       └── clsTransactionScreen.h
-│   └── Global.h
+│       └── Global.h
 └── Source Files/
-    └── bank-management-system-oop-cpp.cpp
+│    └── bank-management-system-oop-cpp.cpp
 ├── bank-management-system-oop-cpp.slnx  # Visual Studio solution
 ├── .gitignore              # Git ignore rules
 └── LICENSE                 # MIT License
