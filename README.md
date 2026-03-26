@@ -9,7 +9,7 @@ Default Password : 1234
 
 ## 📺 Project Demo & Explanation
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/Miu2pZJdkX0)
 
 **Click the image above to watch a complete walkthrough** of the Bank Management System, including:
 
