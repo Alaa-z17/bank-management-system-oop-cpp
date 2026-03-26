@@ -129,6 +129,44 @@
   <ItemGroup>
     <ClCompile Include="bank-management-system-oop-cpp.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="clsAddNewClientScreen.h" />
+    <ClInclude Include="clsAddNewUserScreen.h" />
+    <ClInclude Include="clsBankClient.h" />
+    <ClInclude Include="clsChangeAdminCredsScreen.h" />
+    <ClInclude Include="clsClientListScreen.h" />
+    <ClInclude Include="clsCurrenciesListScreen.h" />
+    <ClInclude Include="clsCurrency.h" />
+    <ClInclude Include="clsCurrencyCalculatorScreen.h" />
+    <ClInclude Include="clsCurrencyExchangeMainScreen.h" />
+    <ClInclude Include="clsDate.h" />
+    <ClInclude Include="clsDeleteClientScreen.h" />
+    <ClInclude Include="clsDeleteUserScreen.h" />
+    <ClInclude Include="clsDepositScreen.h" />
+    <ClInclude Include="clsFindClientScreen.h" />
+    <ClInclude Include="clsFindCurrencyScreen.h" />
+    <ClInclude Include="clsFindUserScreen.h" />
+    <ClInclude Include="clsInputValidate.h" />
+    <ClInclude Include="clsListUserScreen.h" />
+    <ClInclude Include="clsLoginRegisterScreen.h" />
+    <ClInclude Include="clsLoginScreen.h" />
+    <ClInclude Include="clsMainScreen.h" />
+    <ClInclude Include="clsManageUserScreen.h" />
+    <ClInclude Include="clsPerson.h" />
+    <ClInclude Include="clsScreen.h" />
+    <ClInclude Include="clsString.h" />
+    <ClInclude Include="clsTotalBalances.h" />
+    <ClInclude Include="clsTransactionScreen.h" />
+    <ClInclude Include="clsTransferLogScreen.h" />
+    <ClInclude Include="clsTransferScreen.h" />
+    <ClInclude Include="clsUpdateCleintScreen.h" />
+    <ClInclude Include="clsUpdateCurrencyRateScreen.h" />
+    <ClInclude Include="clsUpdateUserScreen.h" />
+    <ClInclude Include="clsUser.h" />
+    <ClInclude Include="clsUtility.h" />
+    <ClInclude Include="clswithDrawScreen.h" />
+    <ClInclude Include="Global.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
