@@ -1,0 +1,18 @@
+# Auto-generated data files
+Clients.txt
+Users.txt
+TransferLog.txt
+LoginRegister.txt
+Currencies.txt
+
+# Visual Studio
+.vs/
+*.user
+Debug/
+Release/
+x64/
+x86/
+*.aps
+*.suo
+*.db
+*.opendb

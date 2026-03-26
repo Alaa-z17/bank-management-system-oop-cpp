@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="bank-management-system-oop-cpp/bank-management-system-oop-cpp.vcxproj" />
+</Solution>
