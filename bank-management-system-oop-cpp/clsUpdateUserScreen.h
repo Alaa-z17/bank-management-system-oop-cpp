@@ -13,7 +13,6 @@ public:
         _DrawScreenHeader("\t  Update User Screen");
 
         string UserName = clsScreen::_ReadUserName();
-        UserName = clsInputValidate::ReadString();
         while (!clsUser::IsUserExist(UserName))
         {
             cout << "\nUser Name is not Exist ";
